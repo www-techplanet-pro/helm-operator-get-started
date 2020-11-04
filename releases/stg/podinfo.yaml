@@ -15,8 +15,8 @@ spec:
     ref: master
   values:
     image:
-      repository: stefanprodan/podinfo
-      tag: stg-9ij63o4c
+      repository: wwwtechplanetpro/podinfo
+      tag: stg-ekptckpv
     replicaCount: 2
     hpa:
       enabled: true
