@@ -16,7 +16,7 @@ spec:
   values:
     image:
       repository: wwwtechplanetpro/podinfo
-      tag: dev-zokstl3g 
+      tag: dev-m4zat4e4
     replicaCount: 1
     hpa:
       enabled: false
