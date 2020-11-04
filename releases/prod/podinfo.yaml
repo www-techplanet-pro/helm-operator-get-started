@@ -16,5 +16,5 @@ spec:
   values:
     image:
       repository: wwwtechplanetpro/podinfo
-      tag: 0.5.0
+      tag: 0.5.1
     replicaCount: 3
